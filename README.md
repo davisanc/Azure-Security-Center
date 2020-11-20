@@ -1,5 +1,5 @@
 # Azure Security Center
-## getting back to normal
+## this is just a demo of using github community in ASC, forking repo into personal account, and cloning to a local repository
 
 Welcome to the Azure Security Center community repository. This repository contains:
 - Security recommendations that are in private preview
